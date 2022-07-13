@@ -1,0 +1,4 @@
+name = "JuliaExporter"
+uuid = "22ff408b-b518-4913-b2db-980705b09cf0"
+authors = ["Kirill Pinchuk <cybergrind@gmail.com>"]
+version = "0.1.0"
